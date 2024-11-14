@@ -7,7 +7,7 @@ ___
 ## 1. Introduction
 As decentralized applications (dApps) and Web3 projects proliferate, developers increasingly need scalable and efficient backend solutions. Traditional blockchains have been slow, costly, and unsuitable for large-scale data storage and frequent access. Arweave introduced AO computer to address some of these limitations, enabling immutable message logs that developers can compute on-demand to derive application states.
 
-Effortless AO builds on this foundation, providing a comprehensive SDK and a user-friendly platform to simplify the creation and management of AO-based databases. Our goal is to make decentralized backends as easy to use as traditional databases, providing the benefits of immutability, transparency, and scalability without the typical challenges associated with blockchain-based storage.
+Effortless AO builds on this foundation, providing a comprehensive SDK and a user-friendly platform to simplify the creation and management of AO-based databases. These tools will allow you to easily start building your decentralized backends without even diving deep into smart contracts and web3 stuffs. Build your web3 apps with web2 DX! ☺️
 
 ## 2. Problem Statement
 - ## 2.1 Limitations of Traditional Blockchains
