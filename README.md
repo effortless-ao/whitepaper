@@ -1,7 +1,7 @@
 # Effortless AO: A New Era of AO-Based Backend Services
 
 ### Abstract
-Effortless AO is a platform designed to revolutionize how developers create and manage backend services with Arweave's AO. Effortless AO offers a simple, fast, and scalable solution for applications that need reliable and decentralized data management. With our intuitive SDK, developers can easily integrate and interact with AO-based services, bypassing the complexity of managing blockchain and decentralized infrastructure directly.
+Effortless AO is a platform designed to revolutionize how developers create and manage backend services with Arweave's AO computer. We offer a simple, fast, and scalable solution for applications that need reliable and decentralized data management. With our intuitive SDK, developers can easily integrate and interact with AO-based services, bypassing the complexity of managing blockchain and decentralized infrastructure directly.
 ___
 
 ## 1. Introduction
